@@ -18,7 +18,7 @@ Every submission was scored out of 10, with area as the main factor. Breaking th
 
 ### 1st Place: Maciej (Imperial), 1314mm²
 
-The only 10/10 of the challenge. Small, within the rules and cleanly routed, with the fewest vias of any of the top boards (221). There was honestly not much for me to say other than good job. [View the repo](https://github.com/MaciejGrzeg/pcb-challenge-2026-submission)
+The only 9/10 of the challenge. Small, within the rules and cleanly routed, with the fewest vias of any of the top boards (221). There were a few missing connections (9-10), but the design did not increase in size when completing them. [View the repo](https://github.com/MaciejGrzeg/pcb-challenge-2026-submission). Yes it is a strange call, but the only reason this wins is because it still is the smallest when these are connected. 
 
 ### 2nd Place: Taylan Arslan (UCL), 2025mm²
 
