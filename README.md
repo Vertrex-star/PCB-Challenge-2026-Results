@@ -70,7 +70,3 @@ Everyone who submitted also gets a Jane Street t-shirt, a PCBWay ruler and a PCB
 ## Final Thoughts
 
 Thank you to everyone who took part, and to Jane Street and PCBWay for sponsoring the prizes. Thank you as well to Mickey Techachokwiwat, Andy Guo and Lutfi Cengiz for finding issues with the schematic and reporting them to me.
-
-To the Edinburgh team: I will be coming up for Hack The Burgh XII and will drop off your prizes with the soc lead.
-
-I hope everyone got the same satisfaction out of this that I got from Taylan's impossible 40mm x 40mm board. See you next year.
