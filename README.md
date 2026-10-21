@@ -4,7 +4,7 @@
 
 The 2026 PCB Challenge ran from the 12th to the 19th of October, and the results are finally in. Six universities took part: UCL, KCL, Oxford, Cambridge, Imperial and Edinburgh. Many thanks to Jane Street and PCBWay for sponsoring the prizes.
 
-The idea was simple. Everyone was given the same schematic, with every component value, connection and footprint already set. Your job was to turn it into a fully wired four layer PCB in the smallest possible area. As an added twist, I never told anyone what the board actually does; deducing the logic function from the schematic alone was part of the challenge.
+The idea was simple. Everyone was given the same schematic, with every component value, connection and footprint already set. Your job was to turn it into a fully wired four layer PCB in the smallest possible area. As an added twist, I never told anyone what the board actually does; deducing the logic function from the schematic alone was part of the challenge. For those still wondering, the circuit **was a 4 bit FIFO buffer.**
 
 The main rules were: 0.15mm minimum trace width, 0.12mm minimum clearance, 0.3mm vias, no via in pad, unmodified KiCad footprints, and no traces or vias underneath an IC on the same layer. The full brief is on the [challenge GitHub](https://github.com/Fleming-Society/PCB-Challenge-2026).
 
