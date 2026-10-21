@@ -65,7 +65,7 @@ Congratulations to the top 10, who each win a Jane Street bottle. The top 3 also
 | 9 | David Lesman | Imperial | 6/10 | Jane Street bottle |
 | 10 | Paul Vincent Bezzina (me) | UCL | 6/10 | Jane Street bottle |
 
-Everyone who submitted also gets a Jane Street t-shirt, a PCBWay ruler and a PCBWay coupon. I will be emailing everyone individually about when to come to the lab to collect them.
+Everyone who submitted also gets a Jane Street t-shirt, a PCBWay ruler and a PCBWay coupon. I will be emailing everyone individually about how to collect them.
 
 ## Final Thoughts
 
