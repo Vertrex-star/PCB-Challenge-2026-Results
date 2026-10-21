@@ -10,7 +10,7 @@ The main rules were: 0.15mm minimum trace width, 0.12mm minimum clearance, 0.3mm
 
 ## The Submissions
 
-We received 21 submissions from Imperial, UCL and Edinburgh, including one team entry from Edinburgh. Board areas ranged from 1037mm² for the smallest all the way up to 7288mm² for the largest.
+We received 40 submissions from Imperial, UCL and Edinburgh, including one team entry from Edinburgh. Board areas ranged from 1037mm² for the smallest all the way up to 7288mm² for the largest (22 valid submissions).
 
 Every submission was scored out of 10, with area as the main factor. Breaking the rules lost you points, and the most common rule broken was routing traces underneath the ICs. Two submissions had a nice layout but no traces at all, so unfortunately there was not much I could review.
 
