@@ -58,10 +58,10 @@ Congratulations to the top 10, who each win a Jane Street bottle. The top 3 also
 | 2 | Taylan Arslan | UCL | 9/10 | £100 Amazon voucher + Jane Street bottle |
 | 3 | Lucas Cerezini | UCL | 8/10 | £50 Amazon voucher + Jane Street bottle |
 | 4 | Andy Guo | UCL | 7.5/10 | Jane Street bottle |
-| 5 | hj1025 | Imperial | 7/10 | Jane Street bottle |
+| 5 | Hashim Jastaniah | Imperial | 7/10 | Jane Street bottle |
 | 6 | Mickey Techachokwiwat | Imperial | 7/10 | Jane Street bottle |
-| 7 | kzt24 | Imperial | 7/10 | Jane Street bottle |
-| 8 | ak3923 | Imperial | 7/10 | Jane Street bottle |
+| 7 | Tan Wei Zhe, Keith | Imperial | 7/10 | Jane Street bottle |
+| 8 | Archie Kendall | Imperial | 7/10 | Jane Street bottle |
 | 9 | David Lesman | Imperial | 6/10 | Jane Street bottle |
 | 10 | Paul Vincent Bezzina (me) | UCL | 6/10 | Jane Street bottle |
 
