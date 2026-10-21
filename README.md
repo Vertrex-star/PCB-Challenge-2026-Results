@@ -10,23 +10,23 @@ The main rules were: 0.15mm minimum trace width, 0.12mm minimum clearance, 0.3mm
 
 ## The Submissions
 
-We received 42 submissions from Imperial, UCL and Edinburgh, including one team entry from Edinburgh. Board areas ranged from 1037mm² for the smallest all the way up to 7288mm² for the largest (22 valid submissions).
+We received 42 submissions from Imperial, UCL and Edinburgh, including one team entry from Edinburgh, and 22 of them were valid. Among the valid submissions, board areas ranged from 1037mm² for the smallest all the way up to 7288mm² for the largest.
 
 Every submission was scored out of 10, with area as the main factor. Breaking the rules lost you points, and the most common rule broken was routing traces underneath the ICs. Two submissions had a nice layout but no traces at all, so unfortunately there was not much I could review.
 
 ## The Winners
 
-### 1st Place: Maciej (Imperial), 1314mm²
+### 1st Place: Taylan Arslan (UCL), 2025mm²
 
-Small, not entirely within the rules but not by a huge factor, with the fewest vias of any of the top boards (221). There were a few missing connections (9-10), but the design did not increase in size when completing them. [View the repo](https://github.com/MaciejGrzeg/pcb-challenge-2026-submission). Yes it is a strange call, but the only reason this wins is because it still is the smallest when these are connected. Furthermore this is the only rule broken on his part, and all submission here have broken at least one rule to a degree. 
+Taylan used Opus 5.5 to do most of the work, and there was no rule against using AI. [View the repo](https://github.com/manyetox/PCB-Challenge-4-word-4-bit-asynchronous-FIFO/tree/main)
 
-### 2nd Place: Taylan Arslan (UCL), 2025mm²
-
-Taylan, used Opus 5.5 to do most of the work, there was no rule against using AI. [View the repo](https://github.com/manyetox/PCB-Challenge-4-word-4-bit-asynchronous-FIFO/tree/main)
-
-### 3rd Place: Lucas Cerezini (UCL), 2100mm²
+### 2nd Place: Lucas Cerezini (UCL), 2100mm²
 
 Great submission, clearly a lot of effort put into it and also within the rules. [View the repo](https://github.com/Lucere211/PCB-Challenge-Fleming-Soc-2026)
+
+### 3rd Place: Hashim Jastaniah (Imperial), 2340mm²
+
+Cursed, but the traces are actually done very beautifully, and so is the layout of the components. [View the repo](https://git.liber8bits.com/PCB-Challenge-2026/)
 
 ### Smallest Board: Andy Guo (UCL), 1037mm²
 
@@ -54,15 +54,15 @@ Congratulations to the top 10, who each win a Jane Street bottle. The top 3 also
 
 | Place | Name | University | Score | Prize |
 | --- | --- | --- | --- | --- |
-| 1 | Maciej | Imperial | 9/10 | £200 Amazon voucher + Jane Street bottle |
-| 2 | Taylan Arslan | UCL | 9/10 | £100 Amazon voucher + Jane Street bottle |
-| 3 | Lucas Cerezini | UCL | 8/10 | £50 Amazon voucher + Jane Street bottle |
+| 1 | Taylan Arslan | UCL | 9.5/10 | £200 Amazon voucher + Jane Street bottle |
+| 2 | Lucas Cerezini | UCL | 9/10 | £100 Amazon voucher + Jane Street bottle |
+| 3 | Hashim Jastaniah | Imperial | 8/10 | £50 Amazon voucher + Jane Street bottle |
 | 4 | Andy Guo | UCL | 7.5/10 | Jane Street bottle |
-| 5 | Hashim Jastaniah | Imperial | 7/10 | Jane Street bottle |
-| 6 | Mickey Techachokwiwat | Imperial | 7/10 | Jane Street bottle |
-| 7 | Tan Wei Zhe, Keith | Imperial | 7/10 | Jane Street bottle |
-| 8 | Archie Kendall | Imperial | 7/10 | Jane Street bottle |
-| 9 | David Lesman | Imperial | 6/10 | Jane Street bottle |
+| 5 | Mickey Techachokwiwat | Imperial | 7/10 | Jane Street bottle |
+| 6 | Tan Wei Zhe, Keith | Imperial | 7/10 | Jane Street bottle |
+| 7 | Archie Kendall | Imperial | 7/10 | Jane Street bottle |
+| 8 | David Lesman | Imperial | 6/10 | Jane Street bottle |
+| 9 | jsg25 | Imperial | 6/10 | Jane Street bottle |
 | 10 | Paul Vincent Bezzina (me) | UCL | 6/10 | Jane Street bottle |
 
 Everyone who submitted also gets a Jane Street t-shirt, a PCBWay ruler and a PCBWay coupon. I will be emailing everyone individually about how to collect them.
